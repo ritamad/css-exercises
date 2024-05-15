@@ -8,12 +8,11 @@
     font-size: 36px;
 }
 
-.paragraph.numberthree {
+.adjust-font-size {
     font-size: 24px;
 }
 
 #div-four {
     background-color: rgb(145, 232, 145);
-    font-size: 24px;
     font-weight: bold;
 }
